@@ -5,7 +5,7 @@
     "host": "0.0.0.0"
   },
   "database": {
-    "client": "sqlite3",
+    "client": "mysql",
     "connection": {
       "filename": "/var/lib/ghost/content/data/ghost.db"
     }
